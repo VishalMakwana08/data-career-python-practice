@@ -1,6 +1,6 @@
 # Convert temperature from Celsius to Fahrenheit and vice versa using formula.
 
-while(True):
+while True:
     print("1.Celsius to Fahrenheit")
     print("2.Fahrenheit to Celsius")
     print("3.Exit")
