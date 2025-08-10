@@ -1,4 +1,4 @@
-# Write Python programs to print the following Patterns: 
+#  Write Python programs to print the following Patterns:
 
 for i in range(1,6):
     print(i*(str(i)+' '))
@@ -27,4 +27,3 @@ for i in range(5,0,-1):
 # *** 
 # ** 
 # *
-
